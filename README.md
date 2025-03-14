@@ -68,7 +68,7 @@ I'm always open to interesting collaborations and opportunities. Feel free to re
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammed-amine-rhedhbane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rhedhbane/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mohammed.rhedhbane@gmail.com)
 
 </div>
@@ -76,5 +76,5 @@ I'm always open to interesting collaborations and opportunities. Feel free to re
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammed-amine-rhedhbane&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rhedhs&color=brightgreen" alt="Profile Views" />
 </div>
