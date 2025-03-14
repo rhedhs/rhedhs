@@ -48,13 +48,6 @@ I'm a passionate Full Stack Developer with 3 years of experience crafting scalab
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhedhs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhedhs&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🔭 Current Focus
 
 I'm currently diving deeper into:
