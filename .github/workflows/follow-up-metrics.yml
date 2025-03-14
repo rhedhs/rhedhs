@@ -10,6 +10,8 @@ jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/followup/README.md
   follow-up-pr-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: production
     steps:
       - uses: lowlighter/metrics@latest
         with:
